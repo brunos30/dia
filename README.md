@@ -6,4 +6,4 @@ Sendo assim um jogo que trabalha a memória visual, a atenção e a concentraç�
 
 • Após isso vai ter a competição e a premiaçao em doces, sendo assim cada um irá ganhar seu brinde conforme a pontuação
 
-•
+•  Iremos ultilizar 3 computadores no dia do jogo, um pra cada criança e no final distribuiremos os doces conforme a pontuação de cada jogador
